@@ -7,6 +7,7 @@
 
 Please share your feedback - let me know if this tool is useful for you, or if you find any bugs. I'd like to add additional functionality in the future. What features would you like to see?
 
-Built with React, August 2019.
+Built with React, March 2020.
 
-https://pwgen.joelb.dev/
+https://sifre.net/
+

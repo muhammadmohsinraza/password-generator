@@ -1,6 +1,6 @@
 [[redirects]]
-	from="https://jb-pwgen.netlify.com/*"
-	to="https://pwgen.joelb.dev/:splat"
+	from="https://sifre.net/*"
+	to="https://sifre.net/:splat"
 	status=301
 	force = true
 

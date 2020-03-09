@@ -27,11 +27,11 @@ const Footer = () => {
         <Heart />
       </span>{' '}
       by{' '}
-      <a href="https://joelb.dev" title="Joel Bartlett's portfolio">
-        Joel Bartlett
+      <a href="https://sifre.net" title="Sifre's portfolio">
+        Sifre.net
       </a>
       <br />{' '}
-      <a href="https://github.com/murbar/password-generator" title="See the code on GitHub">
+      <a href="https://github.com/muhammadmohsinraza/password-generator" title="See the code on GitHub">
         Have a look at the code
       </a>
     </StyledContainer>
