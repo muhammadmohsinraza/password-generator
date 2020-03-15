@@ -46,7 +46,7 @@ export default function About() {
         online.
       </p>
       <ul>
-        <li>Don’t use personal info in your passwords, like your dog’s birthday. Duh.</li>
+        <li>Don’t use personal info in your passwords, like your dog’s birthday. Duhh.</li>
         <li>
           Don’t share credentials over email or text message. They’re completely wide-open
           to interception by 3rd parties.

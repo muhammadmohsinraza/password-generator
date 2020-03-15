@@ -15,10 +15,10 @@ export default createGlobalStyle`
     padding: 0 2rem;
     background: linear-gradient(
       174deg,
-      ${p => p.theme.colors.paleYellow},
-      ${p => p.theme.colors.paleYellow} 45rem, 
-      ${p => p.theme.colors.offWhite} 45rem,
-      ${p => p.theme.colors.offWhite}
+      ${p => p.theme.colors.offWhite},
+      ${p => p.theme.colors.offWhite} 45rem, 
+      ${p => p.theme.colors.darkBlue} 45rem,
+      ${p => p.theme.colors.darkBlue}
     ), ${p => p.theme.colors.offWhite};
     color: ${p => p.theme.colors.offBlack};
     font-family: ${p => p.theme.fontFamily};

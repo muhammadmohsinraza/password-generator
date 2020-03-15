@@ -2,6 +2,8 @@ import React from 'react';
 import styled, { css } from 'styled-components';
 import SecretTween from 'components/common/SecretTween';
 import { media } from 'styles/helpers';
+//import { ReactComponent as Logo } from 'images/logo.png';
+import logo from 'images/logo.png';
 
 const Styles = styled.header`
   padding: 4rem 0 2rem;
@@ -58,26 +60,20 @@ const Styles = styled.header`
     `}
 `;
 
+
+
 export default function Header({ isPwaMode }) {
   return (
     <Styles isPwaMode={isPwaMode}>
       {!isPwaMode ? (
         <h1>
+          <img src={logo} alt="Logo"  />
           <span>
             <SecretTween scrambleOnClick alphaNumeric>
-              Generate
+              Generate secure passwords
             </SecretTween>
           </span>
-          <span>
-            <SecretTween scrambleOnClick alphaNumeric>
-              secure passwords
-            </SecretTween>
-          </span>
-          <span>
-            <SecretTween scrambleOnClick alphaNumeric>
-              instantly
-            </SecretTween>
-          </span>
+          
         </h1>
       ) : (
         <h1>

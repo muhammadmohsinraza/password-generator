@@ -57,7 +57,7 @@ export default function PassphraseParams({ values, onChange, isPwaMode }) {
           name="length"
           value={ppValues.length}
           min={3}
-          max={8}
+          max={10}
           onChange={onChange}
           title="Adjust word count"
         />

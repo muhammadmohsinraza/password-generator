@@ -31,9 +31,7 @@ const Footer = () => {
         Sifre.net
       </a>
       <br />{' '}
-      <a href="https://github.com/muhammadmohsinraza/password-generator" title="See the code on GitHub">
-        Have a look at the code
-      </a>
+      
     </StyledContainer>
   );
 };

@@ -13,8 +13,8 @@ export default function Instructions() {
     <Styles>
       <h2>How does this work?</h2>
       <ol>
-        <li>Set your parameters</li>
-        <li>Choose a secret, any will do</li>
+        <li>Set your parameter</li>
+        <li>Choose a secret, any will work</li>
         <li>Click to copy</li>
         <li>Enjoy your day</li>
       </ol>

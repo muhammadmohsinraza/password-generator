@@ -60,7 +60,7 @@ export default function PasswordParams({ values, onChange, isPwaMode }) {
           name="length"
           value={pwValues.length}
           min={8}
-          max={48}
+          max={50}
           onChange={onChange}
           title="Adjust password length"
         />
