@@ -1,3 +1,16 @@
+# How to install and run the application
+Installation of the site itself is standard to Node.js projects:
+```
+git pull
+npm install
+npm run build
+
+After site compilation it is possible to either run it using built-in local server:
+```
+npm run start
+```
+or copy contents of `public` directory on actual web server.
+
 # A secure password/passphrase generator
 
 1. Set your parameters
