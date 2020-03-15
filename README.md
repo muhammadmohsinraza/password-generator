@@ -10,7 +10,7 @@ After site compilation it is possible to either run it using built-in local serv
 ```
 npm run start
 ```
-or copy contents of `public` directory on actual web server.
+or copy contents of `build` directory on actual web server.
 
 # A secure password/passphrase generator
 
