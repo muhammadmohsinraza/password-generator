@@ -7,6 +7,7 @@ const StyledContainer = styled.div`
   padding: 3rem 0;
   text-align: center;
   font-size: 0.7em;
+  color:white;
   .v {
     font-family: ${p => p.theme.fontFixed};
   }

@@ -12,6 +12,12 @@ npm run start
 ```
 or copy contents of `build` directory on actual web server.
 
+# Google Analytics
+
+Update Google Analytics Key in src/config.js.
+```
+GAPropertyId: 'UA-160955540-1'
+```
 # A secure password/passphrase generator
 
 1. Set your parameters

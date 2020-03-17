@@ -6,6 +6,9 @@ const Styles = styled.div`
   ol {
     font-size: 0.9em;
   }
+  h2,li {
+    color: white;
+  }
 `;
 
 export default function Instructions() {

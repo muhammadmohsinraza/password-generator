@@ -6,6 +6,7 @@ const Styles = styled.div`
   p,
   ul {
     font-size: 0.9em;
+    color: white;
   }
   ul {
     padding: 0 0 0 2.5rem;
@@ -15,6 +16,7 @@ const Styles = styled.div`
     list-style: none;
     position: relative;
     line-height: 1.5;
+    color: white;
   }
   li:last-child {
     margin: 1rem 0 0;
@@ -27,6 +29,9 @@ const Styles = styled.div`
     font-weight: bold;
     font-size: 1.25em;
     line-height: 1.2;
+  }
+  h2{
+    color:white;
   }
 `;
 

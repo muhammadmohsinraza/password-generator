@@ -68,12 +68,6 @@ export default function Header({ isPwaMode }) {
       {!isPwaMode ? (
         <h1>
           <img src={logo} alt="Logo"  />
-          <span>
-            <SecretTween scrambleOnClick alphaNumeric>
-              Generate secure passwords
-            </SecretTween>
-          </span>
-          
         </h1>
       ) : (
         <h1>
